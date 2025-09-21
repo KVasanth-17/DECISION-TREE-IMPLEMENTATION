@@ -27,6 +27,10 @@ Accuracy: 0.8947368421052632
 
 <img width="640" height="812" alt="Image" src="https://github.com/user-attachments/assets/d42b8d4b-568c-41c4-aa60-78a2180d4966" />
 
+New Sample Prediction: malignant
+
+Actual Label: malignant
+
 
 
 
