@@ -18,7 +18,9 @@
 
 Feature names: ['mean radius' 'mean texture' 'mean perimeter' 'mean area'
  'mean smoothness'] ...
+ 
 Target names: ['malignant' 'benign']
+
 Accuracy: 0.8947368421052632
 
 <img width="501" height="393" alt="Image" src="https://github.com/user-attachments/assets/48c8b47e-9ae7-4970-adaf-fb03b2deae2b" />
